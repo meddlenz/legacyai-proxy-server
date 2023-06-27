@@ -1,4 +1,5 @@
-# Example Proxy Server for LegacyAI This is an example implementation of a basic proxy server used to communicate with OpenAI's API. Once your server is set up and running you can add it's URL/endpoint to LegacyAI's Proxy Server field.
+# Example Proxy Server for LegacyAI
+This is an example implementation of a basic proxy server used to communicate with OpenAI's API. Once your server is set up and running you can add it's URL/endpoint to LegacyAI's Proxy Server field.
 
 ## Prerequisites You will need:
 - An OpenAI API key
