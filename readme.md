@@ -5,4 +5,5 @@ This is an example implementation of a basic proxy server used to communicate wi
 - An OpenAI API key
 - A Heroku account attached any of their dyno plans
 
-##Setup steps Follow the steps detailed on Mac-Classic.com to create a Heroku instance with the contents of this repository. When your server is running you can add it to LegacyAI which will bypass the default server, and use yours instead.
+## Setup steps 
+Follow the [setup guide on Mac-Classic.com](https://mac-classic.com/articles/setting-up-a-legacyai-proxy-server/) to create a Heroku instance with the contents of this repository. When your server is running you can add it to LegacyAI which will bypass the default server, and use yours instead.
